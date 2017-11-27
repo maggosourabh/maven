@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 14 06:12:29 CET 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1510636349539
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: Name or service not known

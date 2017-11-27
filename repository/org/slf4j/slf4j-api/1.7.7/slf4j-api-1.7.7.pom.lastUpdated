@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 26 17:04:21 IST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1509017661051
+http\://download.java.net/maven/2/.lastUpdated=1509017655690
+https\://repo.jenkins-ci.org/public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.7.7 from/to repo.jenkins-ci.org (https\://repo.jenkins-ci.org/public/)\: Connection reset
+http\://download.java.net/maven/2/.error=
+@default-https\://repo.jenkins-ci.org/public/.lastUpdated=1509017659742

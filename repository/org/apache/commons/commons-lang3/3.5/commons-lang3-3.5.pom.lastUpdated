@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 01 15:36:37 IST 2017
+@default-http\://download.java.net/maven/2/.lastUpdated=1509530797211
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.5 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1509530797213
+https\://repo.jenkins-ci.org/public/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.5 from/to repo.jenkins-ci.org (https\://repo.jenkins-ci.org/public/)\: The operation was cancelled.
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.5 from/to maven2-repository.java.net (http\://download.java.net/maven/2/)\: The operation was cancelled.
+@default-https\://repo.jenkins-ci.org/public/.lastUpdated=1509530797212

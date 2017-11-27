@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 17 08:55:20 CET 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1510905320409
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache\:apache\:pom\:3 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: Name or service not known

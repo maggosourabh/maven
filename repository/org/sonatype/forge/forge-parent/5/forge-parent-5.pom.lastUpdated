@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 17 10:03:54 CET 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1510909434824
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.sonatype.forge\:forge-parent\:pom\:5 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: Name or service not known
